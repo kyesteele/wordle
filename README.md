@@ -20,7 +20,6 @@ git clone https://github.com/yourusername/wordle-solver.git
 cd wordle-solver
 
 ## Running the Script
-```python
 # with random target word
 python3 wordle_solver.py
 # with a given target word
